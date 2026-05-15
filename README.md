@@ -834,34 +834,10 @@ Current visual structures include:
 - systems sigils
 - ecosystem overlays
 - operational media structures
-- continuity visualization frameworks
-
----
-
-# PROFESSIONAL REFERENCES + CITATIONS
-
-## Time Synchronization Systems
-
-### National Institute of Standards and Technology (NIST)
-https://www.nist.gov/pml/time-and-frequency-division
-
+- continuity 
 Reference Areas:
 - official timing systems
-- synchronization infrastructure
-- global timing standards
-
----
-
-### International Earth Rotation and Reference Systems Service (IERS)
-https://www.iers.org/
-
-Reference Areas:
-- UTC synchronization
-- international timing systems
-- Earth rotation standards
-
----
-
+- 
 ## Interface + Systems Design
 
 ### Nielsen Norman Group
@@ -881,31 +857,6 @@ Reference Areas:
 - visual systems
 - UX structures
 - operational interface systems
-
----
-
-## Media + Communication Systems
-
-### MIT Media Lab
-https://www.media.mit.edu/
-
-Reference Areas:
-- digital communication systems
-- networked media
-- visual technology systems
-
----
-
-### Pew Research Center
-https://www.pewresearch.org/
-
-Reference Areas:
-- digital society
-- social media systems
-- communication environments
-
----
-
 # SOURCE POLICY
 
 Approved source categories:
